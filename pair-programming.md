@@ -11,7 +11,7 @@ Pair Programming is a powerful technique used to develop communication skills in
 
 
 
-As a Technical Interviewer at Code Chrysalis, I get to see a wide range of candidates applying to the Immersive Program. One notable difference between applicants I notice is their ability to communicate. Some are very quiet, while others voice their thoughts and explain their code with ease.
+As a Technical Interviewer at [Code Chrysalis](https://www.codechrysalis.io/), I get to see a wide range of candidates applying to the Immersive Program. One notable difference between applicants I notice is their ability to communicate. Some are very quiet, while others voice their thoughts and explain their code with ease.
 I remember my own technical check-in. It felt so awkward because I was in the early learning stages and couldn’t solve any of the problems.
 
 Not only that but I wasn’t used to talking about my code. My brain was stuck like a car from the 1900s, puffing black smoke and struggling to start. 
