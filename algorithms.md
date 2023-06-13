@@ -21,7 +21,7 @@ I've tried quite a few resources on learning data structures and algorithms (DSA
 - You can use the sort feature to sort questions from Easy to Hard, and even by how often they appear in interviews.
 - The downside is that the questions are not in an intentional order, so I use a site like Neetcode to learn the topic and pattern first and do the chapter problems on Leetcode.
 
-## [Learn the REACTO Framework for Answering Questions](https://www.youtube.com/watch?v=DIR_rxusO8Q) 🗣️
+## [Work on Communication: Learn REACTO](https://www.youtube.com/watch?v=DIR_rxusO8Q) 🗣️
 - The sites I listed are great, but there's one key thing missing. There's no opportunity to communicate. To pass interviews, communication is extremely important.
 - The best video I've found is from David Yang, where he explains the REACTO framework.
 - REACTO: Repeat, Examples, Approach, Code, Test, Optimize.
