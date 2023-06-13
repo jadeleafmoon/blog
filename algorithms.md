@@ -26,4 +26,4 @@ I've tried quite a few resources on learning data structures and algorithms (DSA
 - The best video I've found is from David Yang, where he explains the REACTO framework.
 - REACTO: Repeat, Examples, Approach, Code, Test, Optimize.
 - Notice that a lot of clarification and discussion happens before the first line of code is written!
-- The best tip I have is that as you're solving the problem, explain your code line by line. Also, share your thoughts when thinking. This will avoid awkward silences.
+- The best tip I can give is to explain your code line by line as you're solving the problem. Also, share your thoughts when thinking. This will avoid awkward silences.
