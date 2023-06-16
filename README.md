@@ -1,4 +1,4 @@
-# Blogs
+# Blog
 
 Here are a few articles I've written. I share what I've learned along the way.
 
